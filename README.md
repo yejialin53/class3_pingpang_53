@@ -1,1 +1,1 @@
-#android_final
+这是一个简单的关于乒乓球比赛的APP
