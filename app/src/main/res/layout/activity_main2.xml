@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="none">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="         中国乒乓球协会12月1日上午在北京天坛饭店举行换届选举，原乒协副主席、第九届委员会换届筹备工作小组组长刘国梁当选新一届乒协主席。
+" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="转型乒球掌舵人肩上担子更重"
+            android:textSize="20dp"
+            android:textColor="#CDAD00"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="
+         2017年4月6日中国乒协正式公布东京奥运周期国乒教练组名单，刘国梁继续出任总教练一职。去年6月中国公开赛期间，中国乒乓球协会宣布刘国梁离任国乒总教练岗位，转任中国乒协副主席，国乒不再设置总教练、主教练。刘国梁随后选择回归家庭，陪伴女儿征战高尔夫赛场。今年9月27日，中国乒协发布公告宣布刘国梁回归一线。" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@mipmap/liuguoliang_a"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="          成为中国乒协新任主席后，刘国梁不仅要负责好国乒的奥运备战和参赛，还肩负如何搞好乒乓球这个项目的重要使命。日本的T联赛尽管竞技水平和规模不如乒超，但已经在商业化、市场化以及与广大球迷和观众互动方面做了许多有益的尝试。中国的乒超联赛如何改革？中国如何做到继续保持世界乒乓球霸主地位的同时，引领并帮助世界乒乓球的发展？这些都是刘国梁接下来需要面临的大课题。
+" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="他是中国第一位男子大满贯"
+            android:textColor="#CDAD00"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="
+        从16岁到27岁，刘国梁为国乒效力12年，他是一名非常优秀的世界冠军、奥运冠军。在国乒男线的顶级荣誉里，刘国梁是第一个达到最高高度的球员，他是国乒第一个奥运男单冠军，他也是国乒第一位男子的大满贯球员。他与孔令辉开创的国乒“双子星时代”迄今让无数球迷怀念。" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@mipmap/liuguoliang_b"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="当教练他带领国乒辉煌15年"
+            android:textColor="#CDAD00"
+            android:textSize="20dp"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="
+        刘国梁退役后，就立即留队担任了男队的教练。2003年6月23日，刘国梁出任中国国家乒乓球队男队教研组组长兼男队总教练。刘国梁转型当教练的时候，国乒男队的主要劲敌已经发生了变化，老对手瓦尔德内尔随着年龄增长，已经不是主要威胁，德国新星波尔成为了国乒男队新的竞争对手。
+2003年巴黎世乒赛，18岁小将邱贻可男单第二轮爆冷掀翻当时男单世界排名第一的波尔，让刚上任不久的男队总教练刘国梁非常欣喜。雅典奥运会前国乒做出了一个大胆的决定，用20岁新人王皓代替上届男单冠军孔令辉出战。但雅典奥运会中国男单却出了意外，马琳不敌39岁的瓦尔德内尔无缘八强。王励勤半决赛输给王皓，王皓决赛中发挥失常被韩国人柳承敏抢走了金牌。那也是迄今为止，近四届奥运会国乒丢掉的唯一一枚奥运乒乓球金牌。" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@mipmap/liuguoliang_c"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"/>
+    </LinearLayout>
+</ScrollView>

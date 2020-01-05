@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="none">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="樊振东"
+        android:textSize="30dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="176dp"
+            android:layout_height="125dp"
+            android:src="@mipmap/fanzhendong" />
+
+        <LinearLayout
+            android:layout_width="68dp"
+            android:layout_height="125dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="中文名"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="别名"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="国籍"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="民族"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="出生地"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="出生日期"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="125dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="樊振东"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="小胖，小樊"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="中国"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="汉族"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="广东省广州市"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1997年1月22日"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+        </LinearLayout>
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="樊振东，1997年生于广东省广州市，中国男子乒乓球运动员，中国国家乒乓球队男队员。
+2008年，11岁的樊振东被八一队选中。 2012年2月，进入中国国家乒乓球队；12月，获得乒乓球世青赛男单、混双、男团冠军以及男双亚军。
+2018年4月，2018年乒乓球亚洲杯在日本横滨落幕，樊振东4比0横扫队友夺得冠军。2018年10月21日，樊振东4-1击败波尔，获得2018年巴黎世界杯男单冠军。"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="马龙"
+        android:textSize="30dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="176dp"
+            android:layout_height="125dp"
+            android:src="@mipmap/ma" />
+
+        <LinearLayout
+            android:layout_width="68dp"
+            android:layout_height="125dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="中文名"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="别名"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="国籍"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="民族"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="出生地"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="出生日期"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="125dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="马龙"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Chinese Beast "
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="中国"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="汉族"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="辽宁省鞍山市"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1988年10月20日"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+        </LinearLayout>
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="马龙，1988年10月20日出生于辽宁省鞍山市，中国男子乒乓球队运动员，乒乓球奥运冠军。
+ 2014年任中国乒乓男队队长，乒坛史上第10位大满贯选手，首位集奥运会、世锦赛、世界杯、亚运会、亚锦赛、亚洲杯、巡回赛总决赛、全运会单打冠军于一身的超级全满贯男子选手。"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="蒂姆波尔"
+        android:textSize="30dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="176dp"
+            android:layout_height="125dp"
+            android:src="@mipmap/boll" />
+
+        <LinearLayout
+            android:layout_width="68dp"
+            android:layout_height="125dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="中文名"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="别名"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="国籍"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="民族"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="出生地"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="出生日期"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="125dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="蒂姆波尔"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="波尔 "
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="德国"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="德国奥登沃德"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1981年3月8日"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+        </LinearLayout>
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="蒂姆·波尔（英语：Timo Boll,1981年3月8日—），德国著名乒乓球运动员。
+他4岁开始打球，1997、1998年欧洲青年锦标赛男单冠军，2002年，波尔击败了王励勤和孔令辉，拿到了乒乓球世界杯男单冠军。
+2003年1月登上男子乒乓球选手世界排名第一宝座。
+2005年世界杯男单冠军，2008年比利时列日世界杯亚军，2008年北京奥运会，波尔带领德国队获得亚军，2012年英国利物浦世界杯男单亚军。多次代表德国队获得世乒赛团体赛亚军，波尔被认为是瓦尔德内尔的接班人。"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="刘诗雯"
+        android:textSize="30dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="176dp"
+            android:layout_height="125dp"
+            android:src="@mipmap/xiaozao" />
+
+        <LinearLayout
+            android:layout_width="68dp"
+            android:layout_height="125dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="中文名"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="别名"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="国籍"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="民族"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="出生地"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="出生日期"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="125dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="刘诗雯"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="小枣、枣儿 "
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="中国"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:text="汉族"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="辽宁抚顺"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="1991年4月12日"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+        </LinearLayout>
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="刘诗雯，1991年4月12日出生于辽宁抚顺，中国女子乒乓球队运动员，现就读于华南理工大学工商管理专业。
+2016年9月，在全国乒乓球锦标赛混双决赛中，刘诗雯/林高远击败北京队的马龙/丁宁，获得混双冠军。
+2017年乒乓球亚锦赛在江苏无锡继续进行，女团决赛中国队迎战日本队。首场刘诗雯3-1战胜平野美宇，第二场丁宁直落三局完胜伊藤美城，第三场朱雨玲3-1拿下早田希娜，中国队总比分3-0击败日本队，首次亚锦赛女团六连冠，也是第17次夺冠。
+2017年6月5日，在杜塞尔多夫世乒赛中，刘诗雯与丁宁成功夺得女双冠军。2017年第21届女乒世界杯女单亚军"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="伊藤美诚"
+        android:textSize="30dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="176dp"
+            android:layout_height="125dp"
+            android:src="@mipmap/yi" />
+
+        <LinearLayout
+            android:layout_width="68dp"
+            android:layout_height="125dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="中文名"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="别名"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="国籍"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="民族"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="出生地"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="出生日期"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="125dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="伊藤美诚"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="いとう みま "
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="日本"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="日本静冈县磐田市"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="2000年10月21日"
+                android:textAlignment="center"
+                android:textSize="15dp" />
+        </LinearLayout>
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="伊藤美诚（いとう みま），2000年10月21日出生于日本静冈县磐田市，日本女子乒乓球队运动员。
+2014年3月参加国际乒联职业巡回赛，在德国公开赛中与平野美宇组合获得女子双打冠军。
+2015年3月参加国际乒联职业巡回赛，在德国公开赛中获得女子单打冠军。
+2016年8月参加里约热内卢奥运会，在乒乓球女子团体赛中获得铜牌。
+2018年11月4日，在国际乒联瑞典公开赛女单决赛中以4比0横扫朱雨玲夺得冠军。"/>
+</LinearLayout>
+</ScrollView>

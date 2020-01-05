@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="none">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="赢了比赛还是要早起 陈梦“傻乎乎”的一天"
+            android:textAlignment="center"
+            android:textColor="#A52A2A"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+         <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+             android:src="@mipmap/chenmeng_a"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+            android:text="11月29日，刚刚在乒超第八轮的比赛中战胜陈幸同、王曼昱，一人独拿两分的陈梦在社交平台更新了自己的动态道：“早起傻一天”并配上了一个二哈的表情，以及两张图片。"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@mipmap/chenmeng_bjpg"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+            android:text="陈梦的亲友团纷纷给出了评论，黑龙江中州电缆的队员袁雪娇也在评论区和陈梦互动了起来。袁雪娇夸赞陈梦的“头型可爱死了”，陈梦也回复道：“还是这个样适合我吧”。而袁雪娇回复道：“天生丽质，管它啥样就是嫩嫩哒”，听到这样的夸奖，陈梦也非常的高兴，随即回复道：“这天聊的，给你100＋分”。"/>
+
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@mipmap/chemeng_c"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+            android:text="四川女子乒乓球队教练王珊也评论道：“呆的可爱”，陈梦也回复“早晨4:50起来的 跟我说话我都反应不过来”。这条回复同时也给我们解释了陈梦所说的早起傻一天。"/>
+
+
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@mipmap/chengmeng_d"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+</ScrollView>

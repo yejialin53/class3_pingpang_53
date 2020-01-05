@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scrollbars="none">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="恭喜！许昕/刘诗雯不负众望力克台北组合，为国乒夺奥地利赛首冠"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="24dp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="21dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="33dp"
+                android:layout_height="match_parent"
+                android:src="@mipmap/gplayer" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:text="未来网资讯"
+                android:textColor="#B3EE3A"/>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+            android:text="北京时间11月10日深夜，在刚刚结束的一场国际乒联奥地利乒乓球公开赛混双决赛中，中国乒乓球队世界冠军许昕/刘诗雯组合发挥相当出色，不负众望力克台北组合陈建安/郑怡静，为国乒夺取奥地利赛首冠！恭喜中国乒乓球队。"/>
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingRight="30dp"
+            android:paddingLeft="30dp"
+            android:src="@mipmap/xuliu_a"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+            android:text="第一局比赛，开局双方2-2战平。随后许昕/刘诗雯连得2分，取得4-2的领先。随后陈建安/郑怡静连追2分后比分来到4-4。双方各拿一分后，5-5。昕雯组合连下2分再度取得7-5的领先。台北组合回敬一波5-0，昕雯组合7-10面临对方局点，许昕/刘诗雯挽救2个局点后，刘诗雯打飞了最后一球，中国队混双昕雯组合以9-11先丢一局，总比分0-1落后陈建安/郑怡静。"/>
+
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingRight="30dp"
+            android:paddingLeft="30dp"
+            android:src="@mipmap/xuliu_b"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+            android:text="第二局比赛，许昕以及刘诗雯打的相当不错，通过默契的配合以及单板的质量建立起8-4的领先优势，双方组合各拿一分，比分来到9-5。陈建安/郑怡静追回一分，9-6。许昕/刘诗雯关键球连得两分以11-6扳回一局，双方前两局战成1-1平。
+第三局比赛，开局台北组合陈建安/郑怡静建立4-2的领先。随后几个回合打下来，许昕/刘诗雯依旧落后两分5-7。双方各得一分，6-8。昕雯组合连下3分将比分反超，9-8。双方各自得分后昕雯组合以10-9率先获得局点，随着郑怡静回球没过网，昕雯组合11-9赢下第三局，总比分2-1领先。"/>
+
+
+
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingRight="30dp"
+            android:paddingLeft="30dp"
+            android:src="@mipmap/xuliu_c"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingLeft="35dp"
+            android:paddingRight="35dp"
+            android:text="第四局比赛，开局两对组合比分交替上升双方打成3-3。随后台北组合陈建安/郑怡静连下3分，比分来到3-6。昕雯组合回敬一波2-0，比分来到5-6。之后昕雯组合将比分追成7-7平。陈建安/郑怡静连得3分后，昕雯组合回敬一波3-0，双方战成10-10。许昕连续打丢两个正手球后，昕雯组合以10-12输掉第四局，双方战成2-2平。
+决胜局比赛，开局双方依旧平局2-2。随后许昕/刘诗雯打出一波6-0得分高潮一举奠定胜局，最终以11-5赢下决胜局，从而以总比分3-2赢下本场混双决赛！夺得国际乒联奥地利乒乓球公开赛混双冠军，恭喜中国乒乓球队！"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingRight="30dp"
+            android:paddingLeft="30dp"
+            android:src="@mipmap/xuliu_d"/>
+
+
+    </LinearLayout>
+</ScrollView>

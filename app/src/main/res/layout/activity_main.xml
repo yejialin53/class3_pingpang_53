@@ -1,0 +1,75 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <RelativeLayout
+        android:id="@+id/ly_top_bar"
+        android:layout_width="match_parent"
+        android:layout_height="0dp">
+
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2px"
+            android:layout_alignParentBottom="true" />
+
+    </RelativeLayout>
+
+    <RadioGroup
+        android:id="@+id/rg_tab_bar"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+        <RadioButton
+            android:id="@+id/first_page"
+            style="@style/tab_menu_item"
+            android:drawableTop="@drawable/pic5"
+            android:text="首页" />
+
+        <RadioButton
+            android:id="@+id/ranking"
+            style="@style/tab_menu_item"
+            android:drawableTop="@drawable/pic"
+            android:text="世界排名" />
+
+        <RadioButton
+            android:id="@+id/players_data"
+            style="@style/tab_menu_item"
+            android:drawableTop="@drawable/pic2"
+            android:text="球员简介" />
+
+        <RadioButton
+            android:id="@+id/schedule"
+            style="@style/tab_menu_item"
+            android:drawableTop="@drawable/pic3"
+            android:text="赛事赛程" />
+
+        <RadioButton
+            android:id="@+id/highlights"
+            style="@style/tab_menu_item"
+            android:drawableTop="@drawable/pic4"
+            android:text="精彩集锦"/>
+
+    </RadioGroup>
+
+    <View
+        android:id="@+id/div_tab_bar"
+        android:layout_width="match_parent"
+        android:layout_height="2px"
+        android:layout_above="@id/rg_tab_bar"/>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/div_tab_bar"
+        android:layout_alignTop="@+id/ly_top_bar"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="0dp"></android.support.v4.view.ViewPager>
+
+</RelativeLayout>
